@@ -1,0 +1,22 @@
+.contain {
+    display: inline-flex;
+ width: 1500px;
+    padding: 5px;
+    margin-right: 5px;
+ float:left;
+  }
+  .frame
+  {
+    padding: 20px;
+  }
+  #info
+  {
+    padding: 20px;
+    margin-top: 50px;
+  }
+  #form
+  {
+    padding: 20px;
+    margin-top: 50px;
+  }
+  .pos { position: relative; z-index: 0; left: 0px; top: 0px }
